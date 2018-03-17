@@ -12,6 +12,12 @@ React 0.14.7, Babel 6 and webpack on Node.js is used to setup the environment.
 - ``npm install`` - Install the dependency
 - ``npm start``  -Run the development server
 
+## How to use(fork from velopert)
+- ``git clone https://github.com/ibmmsx2/react-skeleton`` - Clone the project
+- ``yarn install`` - Install the dependency
+- ``yarn start``  -Run the development server
+
+
 *The default server port number is set to* **7777**
 
 ## How to use different port number
